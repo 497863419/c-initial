@@ -1,0 +1,14 @@
+﻿生成启动时间为 2018/11/24 23:29:32。
+     1>项目“D:\vs2013作业\zyj_1122(2)\zyj_1122(2).c\zyj_1122(2).c.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Users\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "sushu(1).c"
+         sushu(1).c
+     1>d:\vs2013作业\zyj_1122(2)\zyj_1122(2).c\sushu(1).c(9): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+       Link:
+         D:\Users\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\vs2013作业\zyj_1122(2)\Debug\zyj_1122(2).c.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\vs2013作业\zyj_1122(2)\Debug\zyj_1122(2).c.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\vs2013作业\zyj_1122(2)\Debug\zyj_1122(2).c.lib" /MACHINE:X86 "Debug\sushu(1).obj"
+         zyj_1122(2).c.vcxproj -> D:\vs2013作业\zyj_1122(2)\Debug\zyj_1122(2).c.exe
+     1>已完成生成项目“D:\vs2013作业\zyj_1122(2)\zyj_1122(2).c\zyj_1122(2).c.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.09
