@@ -1,14 +1,9 @@
-﻿生成启动时间为 2018/12/9 16:52:59。
-     1>项目“D:\vs2013作业\zyj_1209(1)\zyj_1209(1)\zyj_1209(1).vcxproj”在节点 2 上(Build 个目标)。
-     1>ClCompile:
-         D:\Users\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "05text1(1).c"
-         05text1(1).c
-     1>d:\vs2013作业\zyj_1209(1)\zyj_1209(1)\05text1(1).c(14): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-       Link:
-         D:\Users\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\vs2013作业\zyj_1209(1)\Debug\zyj_1209(1).exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\vs2013作业\zyj_1209(1)\Debug\zyj_1209(1).pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\vs2013作业\zyj_1209(1)\Debug\zyj_1209(1).lib" /MACHINE:X86 "Debug\05text1(1).obj"
-         zyj_1209(1).vcxproj -> D:\vs2013作业\zyj_1209(1)\Debug\zyj_1209(1).exe
-     1>已完成生成项目“D:\vs2013作业\zyj_1209(1)\zyj_1209(1)\zyj_1209(1).vcxproj”(Build 个目标)的操作。
+﻿生成启动时间为 2019/1/17 18:53:17。
+     1>项目“D:\c-initial\猜数字游戏\zyj_1209(1)\zyj_1209(1).vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         zyj_1209(1).vcxproj -> D:\c-initial\猜数字游戏\Debug\zyj_1209(1).exe
+     1>已完成生成项目“D:\c-initial\猜数字游戏\zyj_1209(1)\zyj_1209(1).vcxproj”(Build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:00.76
+已用时间 00:00:00.05
