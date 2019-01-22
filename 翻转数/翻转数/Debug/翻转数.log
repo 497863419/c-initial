@@ -1,13 +1,18 @@
-﻿生成启动时间为 2019/1/21 19:19:53。
+﻿生成启动时间为 2019/1/22 22:50:38。
      1>项目“D:\vs2013作业\翻转数\翻转数\翻转数.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
          D:\Users\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "翻转数.cpp"
          翻转数.cpp
-       Link:
-         D:\Users\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\vs2013作业\翻转数\Debug\翻转数.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\vs2013作业\翻转数\Debug\翻转数.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\vs2013作业\翻转数\Debug\翻转数.lib" /MACHINE:X86 "Debug\翻转数.obj"
-         翻转数.vcxproj -> D:\vs2013作业\翻转数\Debug\翻转数.exe
-     1>已完成生成项目“D:\vs2013作业\翻转数\翻转数\翻转数.vcxproj”(Build 个目标)的操作。
+     1>d:\vs2013作业\翻转数\翻转数\翻转数.cpp(21): error C2668: “pow”: 对重载函数的调用不明确
+                 d:\users\vs\vc\include\math.h(1233): 可能是“long double pow(long double,int) throw()”
+                 d:\users\vs\vc\include\math.h(1231): 或       “long double pow(long double,long double) throw()”
+                 d:\users\vs\vc\include\math.h(1117): 或       “float pow(float,int) throw()”
+                 d:\users\vs\vc\include\math.h(1115): 或       “float pow(float,float) throw()”
+                 d:\users\vs\vc\include\math.h(1027): 或       “double pow(double,int) throw()”
+                 d:\users\vs\vc\include\math.h(512): 或       “double pow(double,double)”
+                 尝试匹配参数列表“(int, int)”时
+     1>已完成生成项目“D:\vs2013作业\翻转数\翻转数\翻转数.vcxproj”(Build 个目标)的操作 - 失败。
 
-生成成功。
+生成失败。
 
-已用时间 00:00:01.29
+已用时间 00:00:02.31
